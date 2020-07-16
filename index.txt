@@ -8,19 +8,16 @@
 Mathematics
 =============
 
-1. Class 10th (Marathi)
+  1. Class 10th (Marathi)
 
-   i. Pythagorean Triplets: Page links are pg1_ , pg2_ , pg3_ and pg4_ 
+  i. Pythagorean Triplets: Page links are (1_), (2_), (3_) and (4_)
 
-2. Class 8th (English)
+  2. Class 8th (English)
 
-   i. Parallel Lines, Pair of angles. Link to slides_ .
- 
-__   
-.. _slides: pair_of_angles.pdf
-.. _pg1: 1.PNG
-.. _pg2: 2.PNG
-.. _pg3: 3.PNG
-.. _pg4: 4.PNG
+  i. Parallel Lines, Pair of angles. Link to (slides_) 
 
-
+.. _slides: https://madhuriup.github.io/pair_of_angles.pdf.
+.. _1: https://madhuriup.github.io/1.PNG 
+.. _2: https://madhuriup.github.io/2.PNG 
+.. _3: https://madhuriup.github.io/3.PNG 
+.. _4: https://madhuriup.github.io/4.PNG
