@@ -8,7 +8,11 @@
 Mathematics
 =============
 
-... Topic 1
+- Class 10th (Marathi)
+  - Pythagorean Triplets _pg1: 1.PNG, _pg2: 2.PNG, _pg3: 3.PNG, _pg4: 4.PNG
+
+- Class 8th (English)
+  - Parallel Lines, Pair of angles. _slides: pair_of_angles.pdf
 
 ... Topic 2
 
