@@ -1,20 +1,15 @@
-==================
- Teaching Content
-==================
-----------
- Subjects
-----------
-
 Mathematics
 =============
 
-  1. *Class 10th (Marathi)*
+Class 10th (Marathi)
+----------------------
 
-     i. *Pythagorean Triplets*: Page links are (1_), (2_), (3_) and (4_)
+  1. *Pythagorean Triplets*: Page links are (1_), (2_), (3_) and (4_)
 
-  2. *Class 8th (English)*
-
-     i. *Pair of angles in parallel lines*: Link to (slides_) 
+Class 8th (English)
+--------------------
+  
+  1. *Pair of angles in parallel lines*: Link to (slides_) 
 
 .. _slides: pair_of_angles.pdf
 .. _1: https://madhuriup.github.io/1.PNG 
