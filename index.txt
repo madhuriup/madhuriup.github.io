@@ -16,7 +16,7 @@ Mathematics
 
      i. *Pair of angles in parallel lines*: Link to (slides_) 
 
-.. _slides: https://madhuriup.github.io/pair_of_angles.pdf.
+.. _slides: pair_of_angles.pdf.
 .. _1: https://madhuriup.github.io/1.PNG 
 .. _2: https://madhuriup.github.io/2.PNG 
 .. _3: https://madhuriup.github.io/3.PNG 
