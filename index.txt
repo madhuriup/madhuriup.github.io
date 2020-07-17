@@ -6,12 +6,19 @@ Class 10th (Marathi)
 
   1. *Pythagorean Triplets*: Page links are (1_), (2_), (3_) and (4_)
 
+Class 9th (Marathi)
+----------------------
+
+  1. *Real and Rational Numbers*: Link to (slides-real-rational-numbers_)
+
 Class 8th (English)
 --------------------
   
-  1. *Pair of angles in parallel lines*: Link to (slides_) 
+  1. *Pair of angles in parallel lines*: Link to (slides-pair-of-angles_) 
 
-.. _slides: pair_of_angles.pdf
+
+.. _slides-pair-of-angles: pair_of_angles.pdf
+.. _slides-real-rational-numbers: real_and_rational_numbers.pdf
 .. _1: https://madhuriup.github.io/1.PNG 
 .. _2: https://madhuriup.github.io/2.PNG 
 .. _3: https://madhuriup.github.io/3.PNG 
