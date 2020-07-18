@@ -19,6 +19,7 @@ Class notes for 9th standard mathematics marathi medium.
 
 
   1. *Real and Rational Numbers*: Link to (slides-real-rational-numbers_)
+  2. *Recurring Decimals*: Link to (slides-recurring-decimals_)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 Class 8th (Semi-English)
@@ -31,6 +32,7 @@ Class notes for 8th standard mathematics semi-english medium.
 
 .. _slides-pair-of-angles: pair_of_angles.pdf
 .. _slides-real-rational-numbers: real_and_rational_numbers.pdf
+.. _slides-recurring-decimals: recurring_decimals.pdf
 .. _1: https://madhuriup.github.io/1.PNG 
 .. _2: https://madhuriup.github.io/2.PNG 
 .. _3: https://madhuriup.github.io/3.PNG 
