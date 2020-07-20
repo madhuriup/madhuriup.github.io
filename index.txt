@@ -9,6 +9,7 @@ Class 10th (Marathi)
 Class notes for 10th standard mathematics marathi medium.
 
   1. *Pythagorean Triplets*: Page links are (1_), (2_), (3_) and (4_)
+  2. *Practice Set on Pythagorus Theorem*: Link to (slides-practice-set-pythagorus-thm_)
 
 
 ~~~~~~~~~~~~~~~~~~~~
@@ -30,6 +31,7 @@ Class notes for 8th standard mathematics semi-english medium.
   1. *Pair of angles in parallel lines*: Link to (slides-pair-of-angles_) 
 
 
+.. _slides-practice-set-pythagorus-thm: practice_set_pythagorus_thm.pdf
 .. _slides-pair-of-angles: pair_of_angles.pdf
 .. _slides-real-rational-numbers: real_and_rational_numbers.pdf
 .. _slides-recurring-decimals: recurring_decimals.pdf
