@@ -21,6 +21,7 @@ Class notes for 9th standard mathematics marathi medium.
 
   1. *Real and Rational Numbers*: Link to (slides-real-rational-numbers_)
   2. *Recurring Decimals*: Link to (slides-recurring-decimals_)
+  3. *Irrational Numbers on Number-line*: Link to (slides-irrational-numbers-on-numberline_)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 Class 8th (Semi-English)
@@ -30,7 +31,7 @@ Class notes for 8th standard mathematics semi-english medium.
  
   1. *Pair of angles in parallel lines*: Link to (slides-pair-of-angles_) 
 
-
+.. _slides-irrational-numbers-on-numberline: irrational_numbers_on_numberline.pdf
 .. _slides-practice-set-pythagorus-thm: practice_set_pythagorus_thm.pdf
 .. _slides-pair-of-angles: pair_of_angles.pdf
 .. _slides-real-rational-numbers: real_and_rational_numbers.pdf
