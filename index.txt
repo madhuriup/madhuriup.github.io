@@ -11,7 +11,6 @@ Class notes for 10th standard mathematics marathi medium.
   1. *Pythagorean Triplets*: Page links are (1_), (2_), (3_) and (4_)
   2. *Practice Set on Pythagorus Theorem*: Link to (slides-practice-set-pythagorus-thm_)
   3. *Practice Set on Appollonius Theorem*: Link to (slides-appollonius-thm-practice-set_)
-  4. *Real numbers: Surds*: Link to (slides-real-surd_)
 
 
 ~~~~~~~~~~~~~~~~~~~~
@@ -24,6 +23,9 @@ Class notes for 9th standard mathematics marathi medium.
   1. *Real and Rational Numbers*: Link to (slides-real-rational-numbers_)
   2. *Recurring Decimals*: Link to (slides-recurring-decimals_)
   3. *Irrational Numbers on Number-line*: Link to (slides-irrational-numbers-on-numberline_)
+  4. *Real numbers: Surds*: Link to (slides-real-surd_)
+
+
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 Class 8th (Semi-English)
