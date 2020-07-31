@@ -11,6 +11,7 @@ Class notes for 10th standard mathematics marathi medium.
   1. *Pythagorean Triplets*: Page links are (1_), (2_), (3_) and (4_)
   2. *Practice Set on Pythagorus Theorem*: Link to (slides-practice-set-pythagorus-thm_)
   3. *Practice Set on Appollonius Theorem*: Link to (slides-appollonius-thm-practice-set_)
+  4. *Arithmetic Progression*: Link to (slides-arithmetic-progression_)
 
 
 ~~~~~~~~~~~~~~~~~~~~
@@ -24,6 +25,7 @@ Class notes for 9th standard mathematics marathi medium.
   2. *Recurring Decimals*: Link to (slides-recurring-decimals_)
   3. *Irrational Numbers on Number-line*: Link to (slides-irrational-numbers-on-numberline_)
   4. *Real numbers: Surds*: Link to (slides-real-surd_)
+  5. *Practice Set: Surds*: Link to (slides-practice-set-surds_)
 
 
 
@@ -34,8 +36,13 @@ Class 8th (Semi-English)
 Class notes for 8th standard mathematics semi-english medium. 
  
   1. *Pair of angles in parallel lines*: Link to (slides-pair-of-angles_) 
+  2. *Algebra: Expansion Formulae*: Link to (slides-expansion-formulae_)
 
 
+
+.. _slides-arithmetic-progression: arithmetic_progression.pdf
+.. _slides-expansion-formulae: expansion_formulae.pdf
+.. _slides-practice-set-surds: practice_set_surds_2pt3.pdf
 .. _slides-real-surd: real_surd.pdf
 .. _slides-appollonius-thm-practice-set: appollonius_thm_practice_set.pdf
 .. _slides-irrational-numbers-on-numberline: irrational_numbers_on_numberline.pdf
