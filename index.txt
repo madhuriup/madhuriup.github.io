@@ -26,6 +26,7 @@ Class notes for 9th standard mathematics marathi medium.
   3. *Irrational Numbers on Number-line*: Link to (slides-irrational-numbers-on-numberline_)
   4. *Real numbers: Surds*: Link to (slides-real-surd_)
   5. *Practice Set: Surds*: Link to (slides-practice-set-surds_)
+  6. *practice_set_triangle*: Link to (slides-practice-set-triangle_)
 
 
 
@@ -39,7 +40,7 @@ Class notes for 8th standard mathematics semi-english medium.
   2. *Algebra: Expansion Formulae*: Link to (slides-expansion-formulae_)
 
 
-
+.. _slides-practice-set-triangle: practice_set_triangle.pdf
 .. _slides-arithmetic-progression: arithmetic_progression.pdf
 .. _slides-expansion-formulae: expansion_formulae.pdf
 .. _slides-practice-set-surds: practice_set_surds_2pt3.pdf
