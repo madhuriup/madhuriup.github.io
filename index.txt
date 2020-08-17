@@ -12,6 +12,11 @@ Class notes for 10th standard mathematics marathi medium.
   2. *Practice Set on Pythagorus Theorem*: Link to (slides-practice-set-pythagorus-thm_)
   3. *Practice Set on Appollonius Theorem*: Link to (slides-appollonius-thm-practice-set_)
   4. *Arithmetic Progression*: Link to (slides-arithmetic-progression_)
+  5. *Practice Set 3.2 on Arithmetic Progression*: Link to (slides-arithmetic-progression1_)
+  6. *Practice Set 3.3 on Arithmetic Progression*: Link to (slides-arithmetic-progression2_)
+  7. *Practice Set 3.4 on Arithmetic Progression*: Link to (slides-arithmetic-progression3_)
+  8. *Full Excercise Set on Arithmetic Progression*: Link to (slides-arithmetic-progression4_)
+
 
 
 ~~~~~~~~~~~~~~~~~~~~
@@ -26,7 +31,8 @@ Class notes for 9th standard mathematics marathi medium.
   3. *Irrational Numbers on Number-line*: Link to (slides-irrational-numbers-on-numberline_)
   4. *Real numbers: Surds*: Link to (slides-real-surd_)
   5. *Practice Set: Surds*: Link to (slides-practice-set-surds_)
-  6. *practice_set_triangle*: Link to (slides-practice-set-triangle_)
+  6. *Practice Set 3.1 on Triangles*: Link to (slides-practice-set-triangle_)
+  7. *Practice Set 3.2 on Triangles*: Link to (slides-ps-triangle_)
 
 
 
@@ -40,6 +46,12 @@ Class notes for 8th standard mathematics semi-english medium.
   2. *Algebra: Expansion Formulae*: Link to (slides-expansion-formulae_)
 
 
+
+.. _slides-ps-triangle: practice_set_triangle3p2.pdf
+.. _slides-arithmetic-progression1: practice_set_arithmetic_progression1.pdf
+.. _slides-arithmetic-progression2: practice_set_arithmetic_progression3p3.pdf
+.. _slides-arithmetic-progression3: practice_set_arithmetic_progression3p4.pdf
+.. _slides-arithmetic-progression4: full_excercise_set_arithmetic_progression.pdf
 .. _slides-practice-set-triangle: practice_set_triangle.pdf
 .. _slides-arithmetic-progression: arithmetic_progression.pdf
 .. _slides-expansion-formulae: expansion_formulae.pdf
